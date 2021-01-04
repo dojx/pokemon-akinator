@@ -1,0 +1,34 @@
+:- pce_image_directory('./imagenes/preguntas').
+
+resource(pokedex_text, image, image('pokedex_text.jpg')).
+resource(trans_text, image, image('trans_text.jpg')).
+resource(class_text, image, image('class_text.jpg')).
+resource(region_text, image, image('region_text.jpg')).
+resource(color_text, image, image('color_text.jpg')).
+resource(tipo1_text, image, image('tipo1_text.jpg')).
+resource(tipo2_text, image, image('tipo2_text.jpg')).
+resource(combo_text1, image, image('combo_text1.jpg')).
+resource(combo_text2, image, image('combo_text2.jpg')).
+resource(pez_text, image, image('pez_text.jpg')).
+resource(serp_text, image, image('serp_text.jpg')).
+resource(extrem_text1, image, image('extrem_text1.jpg')).
+resource(extrem_text2, image, image('extrem_text2.jpg')).
+resource(insect_text1, image, image('insect_text1.jpg')).
+resource(insect_text2, image, image('insect_text2.jpg')).
+resource(alas_text, image, image('alas_text.jpg')).
+resource(numalas_text, image, image('numalas_text.jpg')).
+resource(pies_text, image, image('pies_text.jpg')).
+resource(bipedo_text, image, image('bipedo_text.jpg')).
+resource(brazos_text, image, image('brazos_text.jpg')).
+resource(cola_text, image, image('cola_text.jpg')).
+resource(cabeza_text1, image, image('cabeza_text1.jpg')).
+resource(cabeza_text2, image, image('cabeza_text2.jpg')).
+resource(peso_text1, image, image('peso_text1.jpg')).
+resource(peso_text2, image, image('peso_text2.jpg')).
+resource(volver_text, image, image('volver_text.jpg')).
+resource(fracaso_text, image, image('fracaso_text.jpg')).
+resource(search_text1, image, image('search_text1.jpg')).
+resource(search_text2, image, image('search_text2.jpg')).
+resource(search_textw, image, image('search_textw.jpg')).
+resource(evo_text1, image, image('evo_text1.jpg')).
+resource(evo_text2, image, image('evo_text2.jpg')).
