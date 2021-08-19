@@ -13,6 +13,9 @@ El programa consta de 14 archivos, de los cuales 12 son bases de datos, y los ot
 <img src="https://drive.google.com/uc?export=view&id=1Zr8pbuV--dVCIzJj9wQ1ukXJwUS8LMUe" width="640" height="360" />
 
 ### Preguntas
+
+Adivina en que Pokémon está pensando el usuario haciendo preguntas cuyas respuestas sean sí, no o de opción múltiple.
+
 <!-- ![alt text](https://drive.google.com/uc?export=view&id=1eTjP2Rd-tpmIJk3el76mfrsyqtAME8ny) -->
 <img src="https://drive.google.com/uc?export=view&id=1eTjP2Rd-tpmIJk3el76mfrsyqtAME8ny" width="640" height="360" />
 
@@ -29,6 +32,9 @@ El programa consta de 14 archivos, de los cuales 12 son bases de datos, y los ot
 <img src="https://drive.google.com/uc?export=view&id=19-7JvlHfqzACHfmfOgnqeIvlDZyIfWHP" width="640" height="360" />
 
 ### Resultado
+
+Cuando este sistema experto llega a una conclusión se muestra un personaje en pantalla y pregunta si es en el que estaba pensando el usuario.
+
 <!-- ![alt text](https://drive.google.com/uc?export=view&id=1nHw-KeBq2lACeE_jQRVHlF6k-aKFgtSx) -->
 <img src="https://drive.google.com/uc?export=view&id=1nHw-KeBq2lACeE_jQRVHlF6k-aKFgtSx" width="640" height="360" />
 
