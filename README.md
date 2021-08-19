@@ -4,6 +4,8 @@ Adivina qué Pokémon está pensando el usuario. (Generación 1-7)
 ## Descripcion
 Sistema experto con interfaz gráfica que ayude a identificar a los Pokémon por medio de preguntas al usuario, preguntas basadas en las características y habilidades de estos, pero no se tiene conocimiento de su nombre.
 
+El programa consta de 14 archivos, de los cuales 12 son bases de datos, y los otros dos son código para el sistema experto. Además, se tienen 972 imágenes para darle interacción al programa.
+
 ## Imagenes
 
 ### Menú principal
