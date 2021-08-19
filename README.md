@@ -23,5 +23,5 @@ Sistema experto con interfaz gráfica que ayude a identificar a los Pokémon por
 ### Resultado
 ![alt text](https://drive.google.com/uc?export=view&id=1nHw-KeBq2lACeE_jQRVHlF6k-aKFgtSx)
 
-## Comprimido con las imágenes necesarias:
+## Comprimido del proyecto (incluye las imágenes necesarias):
 https://drive.google.com/file/d/1gL0Sws4V__Mjix-Gv4KpxLPU_xxXJ4Y_/view?usp=sharing
