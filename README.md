@@ -1,4 +1,4 @@
-# Pokemon Akinator
+# Pokémon Akinator
 Adivina qué Pokémon está pensando el usuario. (Generación 1-7) 
 
 ## Descripción
