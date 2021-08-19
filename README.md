@@ -9,5 +9,19 @@ Sistema experto con interfaz gráfica que ayude a identificar a los Pokémon por
 ### Menú principal
 ![alt text](https://drive.google.com/uc?export=view&id=1Zr8pbuV--dVCIzJj9wQ1ukXJwUS8LMUe)
 
+### Preguntas
+![alt text](https://drive.google.com/uc?export=view&id=1eTjP2Rd-tpmIJk3el76mfrsyqtAME8ny)
+
+![alt text](https://drive.google.com/uc?export=view&id=1lwgisazNUOOZFHU55wgFDahkWj7J1XGk)
+
+![alt text](https://drive.google.com/uc?export=view&id=1738Sh5EZgzQDBPPmpTaWQGVTYihLlqZ8)
+
+![alt text](https://drive.google.com/uc?export=view&id=1r3AzuOIGrTsY02vQlnp3zl93gyZYgwuW)
+
+![alt text](https://drive.google.com/uc?export=view&id=19-7JvlHfqzACHfmfOgnqeIvlDZyIfWHP)
+
+### Resultado
+![alt text](https://drive.google.com/uc?export=view&id=1nHw-KeBq2lACeE_jQRVHlF6k-aKFgtSx)
+
 ## Comprimido con las imágenes necesarias:
 https://drive.google.com/file/d/1gL0Sws4V__Mjix-Gv4KpxLPU_xxXJ4Y_/view?usp=sharing
