@@ -6,7 +6,7 @@ Sistema experto con interfaz gráfica que ayude a identificar a los Pokémon por
 
 El programa consta de 14 archivos, de los cuales 12 son bases de datos, y los otros dos son código para el sistema experto. Además, se tienen 972 imágenes para darle interacción al programa.
 
-## Imagenes
+## Imágenes
 
 ### Menú principal
 ![alt text](https://drive.google.com/uc?export=view&id=1Zr8pbuV--dVCIzJj9wQ1ukXJwUS8LMUe)
