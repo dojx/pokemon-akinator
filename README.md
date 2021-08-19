@@ -9,7 +9,7 @@ El programa consta de 14 archivos, de los cuales 12 son bases de datos, y los ot
 ## Imágenes
 
 ### Menú principal
-![alt text](https://drive.google.com/uc?export=view&id=1Zr8pbuV--dVCIzJj9wQ1ukXJwUS8LMUe)
+![alt text](https://drive.google.com/uc?export=view&id=1Zr8pbuV--dVCIzJj9wQ1ukXJwUS8LMUe =250x250)
 
 ### Preguntas
 ![alt text](https://drive.google.com/uc?export=view&id=1eTjP2Rd-tpmIJk3el76mfrsyqtAME8ny)
