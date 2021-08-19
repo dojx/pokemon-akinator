@@ -7,7 +7,7 @@ Sistema experto con interfaz gráfica que ayude a identificar a los Pokémon por
 ## Imagenes
 
 ### Menú principal
-![alt text](https://drive.google.com/file/d/1Zr8pbuV--dVCIzJj9wQ1ukXJwUS8LMUe/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1Zr8pbuV--dVCIzJj9wQ1ukXJwUS8LMUe)
 
 ## Comprimido con las imágenes necesarias:
 https://drive.google.com/file/d/1gL0Sws4V__Mjix-Gv4KpxLPU_xxXJ4Y_/view?usp=sharing
